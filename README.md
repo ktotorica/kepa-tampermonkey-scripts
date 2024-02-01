@@ -2,7 +2,7 @@
 These are some tamper monkey scripts that I wrote that I have found useful.
 
 **Force ignore whitespace in github diff.user**<br/>
-This will auto ignore any whitespace changes in a PR and when opening a PR in github.
+This will auto ignore any whitespace changes in a PR when opening a PR in github.
 
 **Refresh AWS session.user**<br/>
 This will refresh the users token for aws to avoid the dreaded session expiration.
